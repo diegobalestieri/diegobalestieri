@@ -1,5 +1,5 @@
 <img src='https://mir-s3-cdn-cf.behance.net/project_modules/fs/79731568097599.5b50bca477735.jpg' alt="banner"></img>
-<h1 align="center">Hi 👋, I'm Juan Diego Balestieri</h1>
+<h1 align="center">Hi, I'm Juan Diego Balestieri</h1>
 <h3 align="center">A Computer Engineering student at the University of Buenos Aires, with only one year left to graduate. I have worked as a consultant at two different companies, where I specialized in using PowerApps and MuleSoft.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
