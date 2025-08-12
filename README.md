@@ -1,17 +1,23 @@
 <img src='https://mir-s3-cdn-cf.behance.net/project_modules/fs/79731568097599.5b50bca477735.jpg' alt="banner"></img>
 <h1 align="center">Hi, I'm Juan Diego Balestieri</h1>
-<h3 align="center">A Computer Engineering student at the University of Buenos Aires, with only one year left to graduate. I have worked as a consultant at two different companies, where I specialized in using PowerApps and MuleSoft.</h3>
+<h3 align="center">MuleSoft Certified Developer (Level 2) with 3+ years of experience in integration development, API design, and
+technical consulting. Proven track record in delivering scalable solutions using Anypoint Platform, MuleSoft best
+practices, and Microsoft Power Platform. Strong background in backend development and RESTful services. Adept at
+client engagement, agile methodologies, and working in cross-functional teams. I also hold European (Italian)
+citizenship, allowing flexibility for relocation or travel.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diegobalestieri&label=Profile%20views&color=0e75b6&style=flat" alt="diegobalestieri" /> </p>
 
-- 🔭 I’m currently working at **MuleSoft as an intern**
+- 🔭 I’m currently working at **MuleSoft as an Associate Technical Consultant**
 
 - 📫 How to reach me **diego.balestieri1998@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/juan-diego-balestieri-ab6069203/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/juan-diego-balestieri-ab6069203/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/diego-balestieri/" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="30" width="40" />
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
